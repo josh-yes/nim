@@ -1,8 +1,6 @@
 """
 move.py
 Josh Schmitz
-Machine Learning
-HW7
 
 Implements very basic Move() class that represents a move as two integer values: self.row (the row to remove from) and self.num (the number of stones to remove).
 """

@@ -1,8 +1,6 @@
 """
 nim_player.py
 Josh Schmitz
-Machine Learning
-HW7
 
 Implements the NimPlayer() class which is a smart bot that makes optimal moves.
 """

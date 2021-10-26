@@ -2,8 +2,6 @@
 """
 main.py
 Josh Schmitz
-Machine Learning
-HW7
 
 Starts a game of nim using the Nim class in nim.py. Takes command line arguments to determine whether the player or bot should go first. The user can specify
 whether they want to go first or whether the bot should go first by entering the command line arg of Bot or Player.

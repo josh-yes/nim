@@ -1,8 +1,6 @@
 """
 nim.py
 Josh Schmitz
-Machine Learning
-HW7
 
 Implements Nim class which is used as the main game driver. Keeps track of the current state while allowing the user and bot to take turns making moves. This class
 is also in charge of getting the user input to make moves.

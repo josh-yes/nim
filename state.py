@@ -1,8 +1,6 @@
 """
 state.py
 Josh Schmitz
-Machine Learning
-HW7
 
 Implements the State() class used for storing and modifying nim game states.
 """
